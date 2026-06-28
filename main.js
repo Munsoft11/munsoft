@@ -83,7 +83,7 @@ const pageTemplates = {
           <div class="tl-dot"></div>
           <div class="tl-body">
             <span class="tl-date"><i class="fas fa-graduation-cap"></i> 2023 – To Date</span>
-            <h3>Bachelor Degree – Computer Science</h3>
+            <h3>Bachelor Degree – Software Engineering</h3>
               <p>Focused on software development fundamentals, programming, databases, and building practical Sofware Systems.</p>
           </div>
         </div>
